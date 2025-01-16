@@ -1,2 +1,2 @@
 # 8085-Microcomputer
-Assembly code implementations and design studies for the 8085 microprocessor using gnusim8085 and Eagle, with related questions and solutions included.
+This repository contains assembly code written for the 8085 microprocessor using the gnusim8085 application and designs created with the Eagle application utilizing the 8085 microprocessor and the 8155 peripheral device. The questions related to the provided solutions for these codes and designs are included in the relevant folder.
